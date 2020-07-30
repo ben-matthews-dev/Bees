@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "znz0QSGVMS3SEeeI09NKtQTxQ08ZpFY9FVt+bFBwcZ5hd+za0cr/+3lDuzW+nf6CjgQxVLcfD6QcJtRexsiBGg==",
+  "success": true,
+  "projectFilePath": "E:\\SourceCode\\Exercises\\C#\\Bees\\Bees\\Bees.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ben\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

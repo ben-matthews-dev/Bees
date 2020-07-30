@@ -1,0 +1,9 @@
+E:\SourceCode\Exercises\C#\Bees\Bees.Core\obj\Debug\netstandard2.0\Bees.Core.csprojAssemblyReference.cache
+E:\SourceCode\Exercises\C#\Bees\Bees.Core\obj\Debug\netstandard2.0\Bees.Core.AssemblyInfoInputs.cache
+E:\SourceCode\Exercises\C#\Bees\Bees.Core\obj\Debug\netstandard2.0\Bees.Core.AssemblyInfo.cs
+E:\SourceCode\Exercises\C#\Bees\Bees.Core\bin\Debug\netstandard2.0\Bees.Core.deps.json
+E:\SourceCode\Exercises\C#\Bees\Bees.Core\bin\Debug\netstandard2.0\Bees.Core.dll
+E:\SourceCode\Exercises\C#\Bees\Bees.Core\bin\Debug\netstandard2.0\Bees.Core.pdb
+E:\SourceCode\Exercises\C#\Bees\Bees.Core\obj\Debug\netstandard2.0\Bees.Core.dll
+E:\SourceCode\Exercises\C#\Bees\Bees.Core\obj\Debug\netstandard2.0\Bees.Core.pdb
+E:\SourceCode\Exercises\C#\Bees\Bees.Core\obj\Debug\netstandard2.0\Bees.Core.csproj.CoreCompileInputs.cache

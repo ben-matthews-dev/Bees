@@ -1,0 +1,12 @@
+E:\SourceCode\Exercises\C#\Bees\Bees.Data\obj\Debug\netstandard2.0\Bees.Data.AssemblyInfoInputs.cache
+E:\SourceCode\Exercises\C#\Bees\Bees.Data\obj\Debug\netstandard2.0\Bees.Data.AssemblyInfo.cs
+E:\SourceCode\Exercises\C#\Bees\Bees.Data\obj\Debug\netstandard2.0\Bees.Data.csproj.CoreCompileInputs.cache
+E:\SourceCode\Exercises\C#\Bees\Bees.Data\bin\Debug\netstandard2.0\Bees.Data.deps.json
+E:\SourceCode\Exercises\C#\Bees\Bees.Data\bin\Debug\netstandard2.0\Bees.Data.dll
+E:\SourceCode\Exercises\C#\Bees\Bees.Data\bin\Debug\netstandard2.0\Bees.Data.pdb
+E:\SourceCode\Exercises\C#\Bees\Bees.Data\bin\Debug\netstandard2.0\Bees.Core.dll
+E:\SourceCode\Exercises\C#\Bees\Bees.Data\bin\Debug\netstandard2.0\Bees.Core.pdb
+E:\SourceCode\Exercises\C#\Bees\Bees.Data\obj\Debug\netstandard2.0\Bees.Data.csprojAssemblyReference.cache
+E:\SourceCode\Exercises\C#\Bees\Bees.Data\obj\Debug\netstandard2.0\Bees.Data.csproj.CopyComplete
+E:\SourceCode\Exercises\C#\Bees\Bees.Data\obj\Debug\netstandard2.0\Bees.Data.dll
+E:\SourceCode\Exercises\C#\Bees\Bees.Data\obj\Debug\netstandard2.0\Bees.Data.pdb

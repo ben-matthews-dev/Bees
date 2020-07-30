@@ -1,0 +1,38 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Matthews, Ben - Bee's Object-Oriented Development Exercise</h1>
+</div>
+
+<div>
+
+</div>
+
+<form method="post">
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Type</th>
+                <th scope="col">Health</th>
+                <th scope="col">Status</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var bee in Model.Bees)
+            {
+                <tr>
+                    <td>@bee.Id</td>
+                    <td>@bee.BeeType</td>
+                    <td>@bee.Health</td>
+                    <td>@bee.StatusType</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <button class="btn btn-primary" type="submit">Damage</button>
+</form>

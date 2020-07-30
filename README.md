@@ -1,5 +1,5 @@
 # Bees
-Matthews, Ben - Bee's Object-Oriented Development Exercise
+<h2><b>Matthews, Ben - Bee's Object-Oriented Development Exercise<b/><h2>
 
 <h3><b>Investigation</h3></b>
 Technologies considered during initial investigation:

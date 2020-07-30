@@ -5,9 +5,13 @@
 Technologies considered during initial investigation:
 
 •	ASP.NET Core 3.1 Console application
+
 •	ASP.NET Core 3.1 Web Application
+
 •	ASP.NET Core 3.1 MVC
+
 •	ASP.NET Core 3.1 MVC + Angular NgRx
+
 •	Angular 
 
 Opted for ASP.NET Core 3.1 Web Application because it could fulfilled all the requirements and provided the following benefits; additional technologies are not required, simple design pattern, simple programming syntax (Razor) to develop the UI, and produces a compiled result in C#. 
